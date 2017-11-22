@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "537B2FA525F23019C2C7B9044B8A43478DB8F046",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "958F46C06F6E70AB3A01A6DBD27D073ABE1786F6" : 9223372036854775807,
+    "537B2FA525F23019C2C7B9044B8A43478DB8F046" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "61C227C1-4E14-415D-BA8E-9148426046C3",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "958F46C06F6E70AB3A01A6DBD27D073ABE1786F6" : "QHTrade\/",
+    "537B2FA525F23019C2C7B9044B8A43478DB8F046" : "HNProject\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "HNProject",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "HNProject\/HNProject.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/li406606887\/HNProject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "537B2FA525F23019C2C7B9044B8A43478DB8F046"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.0.37\/IOS\/QHTrade.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "958F46C06F6E70AB3A01A6DBD27D073ABE1786F6"
+    }
+  ]
+}

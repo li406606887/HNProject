@@ -1,0 +1,29 @@
+platform :ios, '8.0'
+target “HNProject” do
+
+pod 'AFNetworking' 
+
+pod 'MJRefresh'
+
+pod 'SDWebImage'
+
+pod 'ReactiveObjC'
+
+pod 'MJExtension'
+
+pod 'Masonry'
+
+pod 'IQKeyboardManager'
+
+pod 'MBProgressHUD'
+
+pod 'JPush'
+
+pod "Qiniu", "~> 7.1"
+
+pod ‘UMengUShare/Social/ReducedWeChat'
+
+use_frameworks!
+
+end
+
